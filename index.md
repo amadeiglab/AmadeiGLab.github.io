@@ -1,9 +1,9 @@
 ---
 ---
 
-# amadeiglab's Website
+# Amadei Lab
 
-An engaging 1-3 sentence description of your lab.
+Welcome to the Amadei Lab website
 
 {% include section.html %}
 
