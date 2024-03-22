@@ -1,1 +1,1 @@
-Sitemap: /AmadeiLabWebsite/sitemap.xml
+Sitemap: /sitemap.xml
