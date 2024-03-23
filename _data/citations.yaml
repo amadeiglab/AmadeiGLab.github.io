@@ -40,18 +40,6 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1098/rsob.230034
-  title: "Correction to: \u2018Behind the developing brains and beating hearts of\
-    \ stem cell-derived embryo models\u2019 (2023) by Amadei and Glover"
-  authors:
-  - Gianluca Amadei
-  - David M. Glover
-  publisher: Open Biology
-  date: '2023-03-01'
-  link: https://doi.org/gtnwbd
-  orcid: 0000-0001-5405-968X
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41467-023-40322-w
   title: 'spinDrop: a droplet microfluidic platform to maximise single-cell sequencing
     information content'
