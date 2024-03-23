@@ -13,7 +13,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1007/7651_2023_493
   title: Generation of Stem Cell-Based Mouse Embryo-Like Structures
   authors:
@@ -28,7 +27,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1098/rsob.220325
   title: Behind the developing brains and beating hearts of stem cell-derived embryo
     models
@@ -41,7 +39,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1098/rsob.230034
   title: "Correction to: \u2018Behind the developing brains and beating hearts of\
     \ stem cell-derived embryo models\u2019 (2023) by Amadei and Glover"
@@ -54,7 +51,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1038/s41467-023-40322-w
   title: 'spinDrop: a droplet microfluidic platform to maximise single-cell sequencing
     information content'
@@ -77,7 +73,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1016/j.stem.2022.08.013
   title: Mouse embryo model derived exclusively from embryonic stem cells undergoes
     neurulation and heart development
@@ -95,7 +90,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1038/s41586-022-05246-3
   title: "Embryo\_model completes gastrulation to neurulation and organogenesis"
   authors:
@@ -120,7 +114,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1101/2022.08.01.502371
   title: Mouse-embryo model derived exclusively from embryonic stem cells undergo
     neurulation and heart development
@@ -137,7 +130,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1101/2022.08.01.502375
   title: Stem cell-derived mouse embryos develop within an extra-embryonic yolk sac
     to form anterior brain regions and a beating heart
@@ -154,7 +146,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.21203/rs.3.pex-2006/v1
   title: Stem cell-derived mouse embryos develop within an extra-embryonic yolk sac
     to form anterior brain regions and a beating heart-like structure.
@@ -169,7 +160,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.6084/m9.figshare.21792463.v1
   title: Supp. Figure S1 from Behind the developing brains and beating hearts of stem
     cell-derived embryo models
@@ -182,7 +172,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1016/j.devcel.2020.12.004
   title: "Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In\_\
     Vitro"
@@ -203,7 +192,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1038/s41586-020-2264-2
   title: Basement membrane remodelling regulates mouse embryogenesis
   authors:
@@ -221,7 +209,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1038/s41556-018-0187-z
   title: 'Publisher Correction: Self-assembly of embryonic and two extra-embryonic
     stem cell types into gastrulating embryo-like structures'
@@ -244,7 +231,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1038/s41556-018-0147-7
   title: Self-assembly of embryonic and two extra-embryonic stem cell types into gastrulating
     embryo-like structures
@@ -267,7 +253,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1523/jneurosci.2172-15.2015
   title: A Smaug2-Based Translational Repression Complex Determines the Balance between
     Precursor Maintenance versus Differentiation during Mammalian Neurogenesis
@@ -287,7 +272,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1016/j.stem.2012.06.010
   title: An Asymmetrically Localized Staufen2-Dependent RNA Complex Regulates Maintenance
     of Mammalian Neural Stem Cells
@@ -304,7 +288,6 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
-  
 - id: doi:10.1002/rcm.5293
   title: "Quantification of character\u2010impacting compounds in <i>Ocimum basilicum</i>\
     \ and 'Pesto alla Genovese' with selected ion flow tube mass spectrometry"
@@ -329,3 +312,61 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1371/journal.pcbi.1007128
+  title: Open collaborative writing with Manubot
+  authors:
+  - Daniel S. Himmelstein
+  - Vincent Rubinetti
+  - David R. Slochower
+  - Dongbo Hu
+  - Venkat S. Malladi
+  - Casey S. Greene
+  - Anthony Gitter
+  publisher: PLOS Computational Biology
+  date: '2020-12-04'
+  link: https://doi.org/c7np
+  type: paper
+  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
+    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  buttons:
+  - type: manubot
+    link: https://greenelab.github.io/meta-review/
+  - type: source
+    text: Manuscript Source
+    link: https://github.com/greenelab/meta-review
+  - type: website
+    link: http://manubot.org/
+  tags:
+  - open science
+  - collaboration
+  repo: greenelab/meta-review
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/j.csbj.2020.05.017
+  title: Constructing knowledge graphs and their biomedical applications
+  authors:
+  - David N. Nicholson
+  - Casey S. Greene
+  publisher: Computational and Structural Biotechnology Journal
+  date: '2020-01-01'
+  link: https://doi.org/gg7m48
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.7554/eLife.32822
+  title: Sci-Hub provides access to nearly all scholarly literature
+  authors:
+  - Daniel S Himmelstein
+  - Ariel Rodriguez Romero
+  - Jacob G Levernier
+  - Thomas Anthony Munro
+  - Stephen Reid McLaughlin
+  - Bastian Greshake Tzovaras
+  - Casey S Greene
+  publisher: eLife
+  date: '2018-03-01'
+  link: https://doi.org/ckcj
+  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  plugin: sources.py
+  file: sources.yaml
