@@ -1,10 +1,10 @@
 ---
 name: Shikha Chandel
 image: images/Shikha.jpg
+description: Postdoctoral Fellow
 role: Postdoctoral Fellow
-group: alum
 links:
-  github: 
+github: 
 ---
 
 Shikha has been a postdoctoral fellow in the Amadei's team since February 2023
