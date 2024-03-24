@@ -1,13 +1,13 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Gianluca Amadei
+image: images/Gianluca.jpg
 role: pi
 aliases:
-  - J. Smith
-  - J Smith
+  - G. Amadei
+  - G Amadei
 links:
-  home-page: https://janesmith.com
-  orcid: 0000-0001-8713-9213
+  home-page: https://www.biologia.unipd.it/dipartimento/persone/scheda-persona/?tx_wfqbe_pi1%5Baccount%5D=gianluca-amadei
+  orcid: 0000-0001-5405-968X
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
