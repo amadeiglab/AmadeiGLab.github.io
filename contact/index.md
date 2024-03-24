@@ -40,8 +40,8 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Vallisneri.jpg"
+  caption="Complesso Vallisneri"
 %}
 
 {% endcapture %}
@@ -50,8 +50,8 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/Portello.jpg"
+  caption="Porta Portello"
 %}
 
 {% endcapture %}
@@ -60,22 +60,22 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
+#{% capture col1 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+#{% endcapture %}
 
-{% capture col2 %}
+#{% capture col2 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+#{% endcapture %}
 
-{% capture col3 %}
+#{% capture col3 %}
 Lorem ipsum dolor sit amet  
 consectetur adipiscing elit  
 sed do eiusmod tempor
-{% endcapture %}
+#{% endcapture %}
 
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+#{% include cols.html col1=col1 col2=col2 col3=col3 %}
