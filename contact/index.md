@@ -62,13 +62,19 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {% capture col1 %}
 
+ETiX-embryoids
+
 {% endcapture %}
 
 {% capture col2 %}
 
+ETiX-embryoids
+
 {% endcapture %}
 
 {% capture col3 %}
+
+ETiX-embryoids
 
 {% endcapture %}
 
