@@ -5,6 +5,14 @@
 
 Welcome to the Amadei Lab website! Here you will find information about what we do, who we are and where to find us!
 
+{%
+  include feature.html
+  image="images/photo.jpg"
+  link="research"
+  title="Our Research"
+  text=text
+%}
+
 {% include section.html %}
 
 ## Highlights
