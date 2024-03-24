@@ -10,10 +10,4 @@ links:
   orcid: 0000-0001-5405-968X
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Gianluca obtained his doctoral degree at the University of Toronto under the supervision of Dr. Freda Miller. His thesis focused on understanding how specific RNA binding proteins expressed in the neural precursors of the embryonic mouse brain regulate the process of neurogenesis. Gianluca then moved to the UK for his postdoctoral work at the University of Cambridge with Prof. Magdalena Zernicka-Goetz. In Cambridge, he worked on modelling early mouse post-implantation development using combinations of mouse embryonic and extraembryonic stem cells. The resuting embryo-like structures, that can develop up to early organogenesis, are called ETiX-embryos. Using ETiX-embryos to udnerstand mouse, and mammalian, development, is the focus of his reasearch group.  
