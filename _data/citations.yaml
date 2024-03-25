@@ -149,38 +149,6 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.6084/m9.figshare.21792463.v1
-  title: Supp. Figure S1 from Behind the developing brains and beating hearts of stem
-    cell-derived embryo models
-  authors:
-  - Gianluca Amadei
-  - David M. Glover
-  publisher: The Royal Society
-  date: '2022-01-01'
-  link: https://doi.org/gtnwbj
-  orcid: 0000-0001-5405-968X
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.devcel.2020.12.004
-  title: "Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In\_\
-    Vitro"
-  authors:
-  - Gianluca Amadei
-  - Kasey Y.C. Lau
-  - Joachim De Jonghe
-  - Carlos W. Gantner
-  - Berna Sozen
-  - Christopher Chan
-  - Meng Zhu
-  - Christos Kyprianou
-  - Florian Hollfelder
-  - Magdalena Zernicka-Goetz
-  publisher: Developmental Cell
-  date: '2021-02-01'
-  link: https://doi.org/grprdq
-  orcid: 0000-0001-5405-968X
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1038/s41586-020-2264-2
   title: Basement membrane remodelling regulates mouse embryogenesis
   authors:
@@ -195,28 +163,6 @@
   publisher: Nature
   date: '2020-05-06'
   link: https://doi.org/ghcx44
-  orcid: 0000-0001-5405-968X
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41556-018-0187-z
-  title: 'Publisher Correction: Self-assembly of embryonic and two extra-embryonic
-    stem cell types into gastrulating embryo-like structures'
-  authors:
-  - Berna Sozen
-  - Gianluca Amadei
-  - Andy Cox
-  - Ran Wang
-  - Ellen Na
-  - Sylwia Czukiewska
-  - Lia Chappell
-  - Thierry Voet
-  - Geert Michel
-  - Naihe Jing
-  - David M. Glover
-  - Magdalena Zernicka-Goetz
-  publisher: Nature Cell Biology
-  date: '2018-08-08'
-  link: https://doi.org/gdxxq3
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
@@ -299,63 +245,5 @@
   date: '2010-12-14'
   link: https://doi.org/b4dtb7
   orcid: 0000-0001-5405-968X
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
   plugin: sources.py
   file: sources.yaml
