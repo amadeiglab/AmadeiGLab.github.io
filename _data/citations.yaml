@@ -80,7 +80,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/s41586-022-05246-3
-  title: "Embryo\_model completes gastrulation to neurulation and organogenesis"
+  title: Embryo model completes gastrulation to neurulation and organogenesis
   authors:
   - Gianluca Amadei
   - Charlotte E. Handford
