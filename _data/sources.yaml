@@ -97,7 +97,7 @@
   file: v.yaml
   
 - id: doi:10.1038/s41586-022-05246-3
-  title: "Embryo\_model completes gastrulation to neurulation and organogenesis"
+  title: Embryo model completes gastrulation to neurulation and organogenesis
   authors:
   - Gianluca Amadei
   - Charlotte E. Handford
@@ -185,8 +185,7 @@
   remove: true
   
 - id: doi:10.1016/j.devcel.2020.12.004
-  title: "Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In\_\
-    Vitro"
+  title: Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In Vitro
   authors:
   - Gianluca Amadei
   - Kasey Y.C. Lau
