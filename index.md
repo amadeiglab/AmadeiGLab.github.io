@@ -7,12 +7,12 @@
 
 Welcome to the Amadei Lab website! Here you will find information about what we do, who we are and where to find us!
 
+{% endcapture %}
+
 {%
   include feature.html
   image="images/photo.jpg"
 %}
-
-{% endcapture %}
 
 {% capture text %}
 
