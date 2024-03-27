@@ -1,10 +1,10 @@
 ---
-name: Shikha Chandel
-image: images/Shikha.jpg
-description: Postdoctoral Fellow
-role: Postdoctoral Fellow
+name: Susana De Juambelz Urias
+image: images/Susana.jpg
+description: Master Student
+role: Master Student
 links:
 github: 
 ---
 
-Shikha has been a postdoctoral fellow in the Amadei's team since February 2023
+Susana has been a master student in the Amadei group since November 2023
