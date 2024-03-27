@@ -149,6 +149,26 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1016/j.devcel.2020.12.004
+  title: Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In
+    Vitro
+  authors:
+  - Gianluca Amadei
+  - Kasey Y.C. Lau
+  - Joachim De Jonghe
+  - Carlos W. Gantner
+  - Berna Sozen
+  - Christopher Chan
+  - Meng Zhu
+  - Christos Kyprianou
+  - Florian Hollfelder
+  - Magdalena Zernicka-Goetz
+  publisher: Developmental Cell
+  date: '2021-02-01'
+  link: https://doi.org/grprdq
+  orcid: 0000-0001-5405-968X
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1038/s41586-020-2264-2
   title: Basement membrane remodelling regulates mouse embryogenesis
   authors:
