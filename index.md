@@ -33,7 +33,7 @@ Our research group is all about using different kinds of stem cells to generate 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research.jpg"
   link="research"
   title="Our Research"
   text=text
