@@ -12,9 +12,9 @@ Here are some highlights of our publications followed by all our publications be
 
 ## Highlighted
 
-{% include citation.html lookup="Embryo model completes gastrulation to neurulation and organogenesis" style="rich" %}
-
 {% include citation.html lookup="Mouse embryo model derived exclusively from embryonic stem cells undergoes neurulation and heart development" style="rich" %}
+
+{% include citation.html lookup="Embryo model completes gastrulation to neurulation and organogenesis" style="rich" %}
 
 {% include citation.html lookup="Inducible Stem-Cell-Derived Embryos Capture Mouse Morphogenetic Events In Vitro" style="rich" %}
 
