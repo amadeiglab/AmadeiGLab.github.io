@@ -3,6 +3,8 @@
 
 # Amadei Laboratory
 
+{% capture text %}
+
 Welcome to the Amadei Lab website! Here you will find information about what we do, who we are and where to find us!
 
 {%
@@ -10,6 +12,7 @@ Welcome to the Amadei Lab website! Here you will find information about what we 
   image="images/photo.jpg"
 %}
 
+{% endcapture %}
 
 {% capture text %}
 
