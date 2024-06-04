@@ -11,7 +11,7 @@ Welcome to the Amadei Lab website! Here you will find information about what we 
 
 {%
   include feature.html
-  <img src="images/Amadeilab.jpg" width="10" height="10">
+  image="images/Amadeilab.jpg"
   title="Welcome to the Lab!"
   text=text
 %}
