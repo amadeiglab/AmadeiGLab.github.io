@@ -12,7 +12,6 @@ Welcome to the Amadei Lab website! Here you will find information about what we 
 {%
   include feature.html
   image="images/Amadeilab.jpg"
-  height=50%
   title="Welcome to the Lab!"
   text=text
 %}
