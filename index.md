@@ -47,7 +47,7 @@ Projects in the laboratory may wary greatly but in general they fall under these
 
 {%
   include feature.html
-  image="images/Projects.jpg"
+  image="images/Projects_resized.jpg"
   link="projects"
   title="Our Projects"
   flip=true
