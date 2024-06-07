@@ -54,6 +54,7 @@
   orcid: 0000-0001-5405-968X
   plugin: orcid.py
   file: orcid.yaml
+  image: https://royalsocietypublishing.org/doi/10.1098/rsob.220325
   
 - id: doi:10.1038/s41467-023-40322-w
   title: 'spinDrop: a droplet microfluidic platform to maximise single-cell sequencing
