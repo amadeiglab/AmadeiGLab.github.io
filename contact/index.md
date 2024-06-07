@@ -50,7 +50,7 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {%
   include figure.html
-  image="images/Portello.jpg"
+  image="images/Portello_resized.jpg"
   caption="Porta Portello"
 %}
 
