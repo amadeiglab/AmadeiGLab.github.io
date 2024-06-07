@@ -56,3 +56,4 @@ The laboratory space is in the Department of Biology at Complesso Vallisneri, lo
 
 {% endcapture %}
 
+{% include cols.html col1=col1 col2=col2 %}
