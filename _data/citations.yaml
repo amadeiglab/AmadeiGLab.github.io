@@ -40,7 +40,7 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
-  image: images/behind.jpg
+  image: images/Behind.jpg
 - id: doi:10.1038/s41467-023-40322-w
   title: 'spinDrop: a droplet microfluidic platform to maximise single-cell sequencing
     information content'
