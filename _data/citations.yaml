@@ -79,6 +79,7 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
+  image: https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(22)00377-0?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1934590922003770%3Fshowall%3Dtrue#secsectitle0015
 - id: doi:10.1038/s41586-022-05246-3
   title: Embryo model completes gastrulation to neurulation and organogenesis
   authors:
