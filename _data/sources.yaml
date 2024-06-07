@@ -124,6 +124,7 @@
   orcid: 0000-0001-5405-968X
   plugin: sources.py
   file: sources.yaml
+  image: "images/Nature4.jpg"
   
 - id: doi:10.1101/2022.08.01.502371
   title: Mouse-embryo model derived exclusively from embryonic stem cells undergo
